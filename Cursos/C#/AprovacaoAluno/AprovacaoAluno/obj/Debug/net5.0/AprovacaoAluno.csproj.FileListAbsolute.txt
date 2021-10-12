@@ -1,0 +1,16 @@
+C:\Users\Gerson Lima\Documents\Cursos\C#\AprovacaoAluno\AprovacaoAluno\obj\Debug\net5.0\AprovacaoAluno.csproj.AssemblyReference.cache
+C:\Users\Gerson Lima\Documents\Cursos\C#\AprovacaoAluno\AprovacaoAluno\obj\Debug\net5.0\AprovacaoAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerson Lima\Documents\Cursos\C#\AprovacaoAluno\AprovacaoAluno\obj\Debug\net5.0\AprovacaoAluno.AssemblyInfoInputs.cache
+C:\Users\Gerson Lima\Documents\Cursos\C#\AprovacaoAluno\AprovacaoAluno\obj\Debug\net5.0\AprovacaoAluno.AssemblyInfo.cs
+C:\Users\Gerson Lima\Documents\Cursos\C#\AprovacaoAluno\AprovacaoAluno\obj\Debug\net5.0\AprovacaoAluno.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Lima\Documents\Cursos\C#\AprovacaoAluno\AprovacaoAluno\bin\Debug\net5.0\AprovacaoAluno.exe
+C:\Users\Gerson Lima\Documents\Cursos\C#\AprovacaoAluno\AprovacaoAluno\bin\Debug\net5.0\AprovacaoAluno.deps.json
+C:\Users\Gerson Lima\Documents\Cursos\C#\AprovacaoAluno\AprovacaoAluno\bin\Debug\net5.0\AprovacaoAluno.runtimeconfig.json
+C:\Users\Gerson Lima\Documents\Cursos\C#\AprovacaoAluno\AprovacaoAluno\bin\Debug\net5.0\AprovacaoAluno.runtimeconfig.dev.json
+C:\Users\Gerson Lima\Documents\Cursos\C#\AprovacaoAluno\AprovacaoAluno\bin\Debug\net5.0\AprovacaoAluno.dll
+C:\Users\Gerson Lima\Documents\Cursos\C#\AprovacaoAluno\AprovacaoAluno\bin\Debug\net5.0\ref\AprovacaoAluno.dll
+C:\Users\Gerson Lima\Documents\Cursos\C#\AprovacaoAluno\AprovacaoAluno\bin\Debug\net5.0\AprovacaoAluno.pdb
+C:\Users\Gerson Lima\Documents\Cursos\C#\AprovacaoAluno\AprovacaoAluno\obj\Debug\net5.0\AprovacaoAluno.dll
+C:\Users\Gerson Lima\Documents\Cursos\C#\AprovacaoAluno\AprovacaoAluno\obj\Debug\net5.0\ref\AprovacaoAluno.dll
+C:\Users\Gerson Lima\Documents\Cursos\C#\AprovacaoAluno\AprovacaoAluno\obj\Debug\net5.0\AprovacaoAluno.pdb
+C:\Users\Gerson Lima\Documents\Cursos\C#\AprovacaoAluno\AprovacaoAluno\obj\Debug\net5.0\AprovacaoAluno.genruntimeconfig.cache

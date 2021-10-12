@@ -1,0 +1,16 @@
+C:\Users\Gerson Lima\Documents\Cursos\C#\SegundoProblemaProduto\SegundoProblemaProduto\bin\Debug\net5.0\SegundoProblemaProduto.exe
+C:\Users\Gerson Lima\Documents\Cursos\C#\SegundoProblemaProduto\SegundoProblemaProduto\bin\Debug\net5.0\SegundoProblemaProduto.deps.json
+C:\Users\Gerson Lima\Documents\Cursos\C#\SegundoProblemaProduto\SegundoProblemaProduto\bin\Debug\net5.0\SegundoProblemaProduto.runtimeconfig.json
+C:\Users\Gerson Lima\Documents\Cursos\C#\SegundoProblemaProduto\SegundoProblemaProduto\bin\Debug\net5.0\SegundoProblemaProduto.runtimeconfig.dev.json
+C:\Users\Gerson Lima\Documents\Cursos\C#\SegundoProblemaProduto\SegundoProblemaProduto\bin\Debug\net5.0\SegundoProblemaProduto.dll
+C:\Users\Gerson Lima\Documents\Cursos\C#\SegundoProblemaProduto\SegundoProblemaProduto\bin\Debug\net5.0\ref\SegundoProblemaProduto.dll
+C:\Users\Gerson Lima\Documents\Cursos\C#\SegundoProblemaProduto\SegundoProblemaProduto\bin\Debug\net5.0\SegundoProblemaProduto.pdb
+C:\Users\Gerson Lima\Documents\Cursos\C#\SegundoProblemaProduto\SegundoProblemaProduto\obj\Debug\net5.0\SegundoProblemaProduto.csproj.AssemblyReference.cache
+C:\Users\Gerson Lima\Documents\Cursos\C#\SegundoProblemaProduto\SegundoProblemaProduto\obj\Debug\net5.0\SegundoProblemaProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerson Lima\Documents\Cursos\C#\SegundoProblemaProduto\SegundoProblemaProduto\obj\Debug\net5.0\SegundoProblemaProduto.AssemblyInfoInputs.cache
+C:\Users\Gerson Lima\Documents\Cursos\C#\SegundoProblemaProduto\SegundoProblemaProduto\obj\Debug\net5.0\SegundoProblemaProduto.AssemblyInfo.cs
+C:\Users\Gerson Lima\Documents\Cursos\C#\SegundoProblemaProduto\SegundoProblemaProduto\obj\Debug\net5.0\SegundoProblemaProduto.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Lima\Documents\Cursos\C#\SegundoProblemaProduto\SegundoProblemaProduto\obj\Debug\net5.0\SegundoProblemaProduto.dll
+C:\Users\Gerson Lima\Documents\Cursos\C#\SegundoProblemaProduto\SegundoProblemaProduto\obj\Debug\net5.0\ref\SegundoProblemaProduto.dll
+C:\Users\Gerson Lima\Documents\Cursos\C#\SegundoProblemaProduto\SegundoProblemaProduto\obj\Debug\net5.0\SegundoProblemaProduto.pdb
+C:\Users\Gerson Lima\Documents\Cursos\C#\SegundoProblemaProduto\SegundoProblemaProduto\obj\Debug\net5.0\SegundoProblemaProduto.genruntimeconfig.cache

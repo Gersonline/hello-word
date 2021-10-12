@@ -1,0 +1,16 @@
+C:\Users\Gerson Lima\Documents\Cursos\C#\Triangulo\Triangulo\bin\Debug\net5.0\Triangulo.exe
+C:\Users\Gerson Lima\Documents\Cursos\C#\Triangulo\Triangulo\bin\Debug\net5.0\Triangulo.deps.json
+C:\Users\Gerson Lima\Documents\Cursos\C#\Triangulo\Triangulo\bin\Debug\net5.0\Triangulo.runtimeconfig.json
+C:\Users\Gerson Lima\Documents\Cursos\C#\Triangulo\Triangulo\bin\Debug\net5.0\Triangulo.runtimeconfig.dev.json
+C:\Users\Gerson Lima\Documents\Cursos\C#\Triangulo\Triangulo\bin\Debug\net5.0\Triangulo.dll
+C:\Users\Gerson Lima\Documents\Cursos\C#\Triangulo\Triangulo\bin\Debug\net5.0\ref\Triangulo.dll
+C:\Users\Gerson Lima\Documents\Cursos\C#\Triangulo\Triangulo\bin\Debug\net5.0\Triangulo.pdb
+C:\Users\Gerson Lima\Documents\Cursos\C#\Triangulo\Triangulo\obj\Debug\net5.0\Triangulo.csproj.AssemblyReference.cache
+C:\Users\Gerson Lima\Documents\Cursos\C#\Triangulo\Triangulo\obj\Debug\net5.0\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerson Lima\Documents\Cursos\C#\Triangulo\Triangulo\obj\Debug\net5.0\Triangulo.AssemblyInfoInputs.cache
+C:\Users\Gerson Lima\Documents\Cursos\C#\Triangulo\Triangulo\obj\Debug\net5.0\Triangulo.AssemblyInfo.cs
+C:\Users\Gerson Lima\Documents\Cursos\C#\Triangulo\Triangulo\obj\Debug\net5.0\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Lima\Documents\Cursos\C#\Triangulo\Triangulo\obj\Debug\net5.0\Triangulo.dll
+C:\Users\Gerson Lima\Documents\Cursos\C#\Triangulo\Triangulo\obj\Debug\net5.0\ref\Triangulo.dll
+C:\Users\Gerson Lima\Documents\Cursos\C#\Triangulo\Triangulo\obj\Debug\net5.0\Triangulo.pdb
+C:\Users\Gerson Lima\Documents\Cursos\C#\Triangulo\Triangulo\obj\Debug\net5.0\Triangulo.genruntimeconfig.cache

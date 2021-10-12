@@ -1,0 +1,16 @@
+C:\Users\Gerson Lima\Documents\Cursos\C#\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net5.0\PrimeirosExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerson Lima\Documents\Cursos\C#\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net5.0\PrimeirosExercicios.AssemblyInfoInputs.cache
+C:\Users\Gerson Lima\Documents\Cursos\C#\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net5.0\PrimeirosExercicios.AssemblyInfo.cs
+C:\Users\Gerson Lima\Documents\Cursos\C#\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net5.0\PrimeirosExercicios.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Lima\Documents\Cursos\C#\PrimeirosExercicios\PrimeirosExercicios\bin\Debug\net5.0\PrimeirosExercicios.exe
+C:\Users\Gerson Lima\Documents\Cursos\C#\PrimeirosExercicios\PrimeirosExercicios\bin\Debug\net5.0\PrimeirosExercicios.deps.json
+C:\Users\Gerson Lima\Documents\Cursos\C#\PrimeirosExercicios\PrimeirosExercicios\bin\Debug\net5.0\PrimeirosExercicios.runtimeconfig.json
+C:\Users\Gerson Lima\Documents\Cursos\C#\PrimeirosExercicios\PrimeirosExercicios\bin\Debug\net5.0\PrimeirosExercicios.runtimeconfig.dev.json
+C:\Users\Gerson Lima\Documents\Cursos\C#\PrimeirosExercicios\PrimeirosExercicios\bin\Debug\net5.0\PrimeirosExercicios.dll
+C:\Users\Gerson Lima\Documents\Cursos\C#\PrimeirosExercicios\PrimeirosExercicios\bin\Debug\net5.0\ref\PrimeirosExercicios.dll
+C:\Users\Gerson Lima\Documents\Cursos\C#\PrimeirosExercicios\PrimeirosExercicios\bin\Debug\net5.0\PrimeirosExercicios.pdb
+C:\Users\Gerson Lima\Documents\Cursos\C#\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net5.0\PrimeirosExercicios.dll
+C:\Users\Gerson Lima\Documents\Cursos\C#\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net5.0\ref\PrimeirosExercicios.dll
+C:\Users\Gerson Lima\Documents\Cursos\C#\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net5.0\PrimeirosExercicios.pdb
+C:\Users\Gerson Lima\Documents\Cursos\C#\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net5.0\PrimeirosExercicios.genruntimeconfig.cache
+C:\Users\Gerson Lima\Documents\Cursos\C#\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net5.0\PrimeirosExercicios.csproj.AssemblyReference.cache

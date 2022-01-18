@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71615526-d190-4ca7-acf4-d8c5ed4c0e01" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/.vs/AprovacaoAluno/DesignTimeBuild/.dtbcache.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/.vs/AprovacaoAluno/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/Aluno.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/AprovacaoAluno.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/bin/Debug/net5.0/AprovacaoAluno.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/bin/Debug/net5.0/AprovacaoAluno.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/bin/Debug/net5.0/AprovacaoAluno.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/bin/Debug/net5.0/AprovacaoAluno.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/bin/Debug/net5.0/AprovacaoAluno.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/bin/Debug/net5.0/AprovacaoAluno.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/bin/Debug/net5.0/ref/AprovacaoAluno.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/obj/AprovacaoAluno.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/obj/AprovacaoAluno.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/obj/AprovacaoAluno.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/obj/Debug/net5.0/AprovacaoAluno.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/obj/Debug/net5.0/AprovacaoAluno.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/obj/Debug/net5.0/AprovacaoAluno.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/obj/Debug/net5.0/AprovacaoAluno.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/obj/Debug/net5.0/AprovacaoAluno.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/obj/Debug/net5.0/AprovacaoAluno.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/obj/Debug/net5.0/AprovacaoAluno.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/obj/Debug/net5.0/AprovacaoAluno.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/obj/Debug/net5.0/AprovacaoAluno.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/obj/Debug/net5.0/AprovacaoAluno.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/obj/Debug/net5.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/obj/Debug/net5.0/ref/AprovacaoAluno.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/AprovacaoAluno/AprovacaoAluno/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/.vs/PrimeirosExercicios/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/Exercicio1Pessoa.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/Exercicio2Funcionario.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/Funcionario.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/Pessoa.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/PrimeirosExercicios.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/bin/Debug/net5.0/PrimeirosExercicios.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/bin/Debug/net5.0/PrimeirosExercicios.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/bin/Debug/net5.0/PrimeirosExercicios.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/bin/Debug/net5.0/PrimeirosExercicios.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/bin/Debug/net5.0/PrimeirosExercicios.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/bin/Debug/net5.0/PrimeirosExercicios.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/bin/Debug/net5.0/ref/PrimeirosExercicios.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/Debug/net5.0/PrimeirosExercicios.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/Debug/net5.0/PrimeirosExercicios.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/Debug/net5.0/PrimeirosExercicios.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/Debug/net5.0/PrimeirosExercicios.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/Debug/net5.0/PrimeirosExercicios.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/Debug/net5.0/PrimeirosExercicios.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/Debug/net5.0/PrimeirosExercicios.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/Debug/net5.0/PrimeirosExercicios.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/Debug/net5.0/PrimeirosExercicios.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/Debug/net5.0/PrimeirosExercicios.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/Debug/net5.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/Debug/net5.0/ref/PrimeirosExercicios.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/PrimeirosExercicios.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/PrimeirosExercicios.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/PrimeirosExercicios.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/Release/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/Release/net5.0/PrimeirosExercicios.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/Release/net5.0/PrimeirosExercicios.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/Release/net5.0/PrimeirosExercicios.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/Release/net5.0/PrimeirosExercicios.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/PrimeirosExercicios/PrimeirosExercicios/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/.vs/SalarioFuncionario/DesignTimeBuild/.dtbcache.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/.vs/SalarioFuncionario/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/Funcionario.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/SalarioFuncionario.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/bin/Debug/net5.0/SalarioFuncionario.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/bin/Debug/net5.0/SalarioFuncionario.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/bin/Debug/net5.0/SalarioFuncionario.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/bin/Debug/net5.0/SalarioFuncionario.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/bin/Debug/net5.0/SalarioFuncionario.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/bin/Debug/net5.0/SalarioFuncionario.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/bin/Debug/net5.0/ref/SalarioFuncionario.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/Debug/net5.0/SalarioFuncionario.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/Debug/net5.0/SalarioFuncionario.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/Debug/net5.0/SalarioFuncionario.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/Debug/net5.0/SalarioFuncionario.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/Debug/net5.0/SalarioFuncionario.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/Debug/net5.0/SalarioFuncionario.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/Debug/net5.0/SalarioFuncionario.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/Debug/net5.0/SalarioFuncionario.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/Debug/net5.0/SalarioFuncionario.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/Debug/net5.0/SalarioFuncionario.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/Debug/net5.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/Debug/net5.0/ref/SalarioFuncionario.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/Release/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/Release/net5.0/SalarioFuncionario.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/Release/net5.0/SalarioFuncionario.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/Release/net5.0/SalarioFuncionario.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/Release/net5.0/SalarioFuncionario.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/Release/net5.0/SalarioFuncionario.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/SalarioFuncionario.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/SalarioFuncionario.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/SalarioFuncionario.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SalarioFuncionario/SalarioFuncionario/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/.vs/SegundoProblemaProduto/DesignTimeBuild/.dtbcache.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/.vs/SegundoProblemaProduto/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/Produto.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/SegundoProblemaProduto.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/bin/Debug/net5.0/SegundoProblemaProduto.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/bin/Debug/net5.0/SegundoProblemaProduto.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/bin/Debug/net5.0/SegundoProblemaProduto.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/bin/Debug/net5.0/SegundoProblemaProduto.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/bin/Debug/net5.0/SegundoProblemaProduto.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/bin/Debug/net5.0/SegundoProblemaProduto.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/bin/Debug/net5.0/ref/SegundoProblemaProduto.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/Debug/net5.0/SegundoProblemaProduto.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/Debug/net5.0/SegundoProblemaProduto.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/Debug/net5.0/SegundoProblemaProduto.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/Debug/net5.0/SegundoProblemaProduto.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/Debug/net5.0/SegundoProblemaProduto.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/Debug/net5.0/SegundoProblemaProduto.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/Debug/net5.0/SegundoProblemaProduto.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/Debug/net5.0/SegundoProblemaProduto.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/Debug/net5.0/SegundoProblemaProduto.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/Debug/net5.0/SegundoProblemaProduto.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/Debug/net5.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/Debug/net5.0/ref/SegundoProblemaProduto.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/Release/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/Release/net5.0/SegundoProblemaProduto.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/Release/net5.0/SegundoProblemaProduto.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/Release/net5.0/SegundoProblemaProduto.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/Release/net5.0/SegundoProblemaProduto.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/SegundoProblemaProduto.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/SegundoProblemaProduto.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/SegundoProblemaProduto.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/SegundoProblemaProduto/SegundoProblemaProduto/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/Triangulo/Triangulo/obj/Debug/net5.0/Triangulo.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Cursos/C#/Triangulo/Triangulo/obj/Debug/net5.0/Triangulo.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/Triangulo/Triangulo/obj/Debug/net5.0/Triangulo.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Cursos/C#/Triangulo/Triangulo/obj/Debug/net5.0/Triangulo.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/Triangulo/Triangulo/obj/Release/net5.0/Triangulo.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Cursos/C#/Triangulo/Triangulo/obj/Release/net5.0/Triangulo.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/C#/Triangulo/Triangulo/obj/Release/net5.0/Triangulo.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Cursos/C#/Triangulo/Triangulo/obj/Release/net5.0/Triangulo.assets.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="20WeBuBoWcqYhOTnoeT67SM2B1B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.virtualenvs/dev_django/Scripts" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="Scripts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hello_django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/.virtualenvs/dev_django" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/.virtualenvs/dev_django/Scripts" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Scripts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hello_django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/.virtualenvs/dev_django" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/.virtualenvs/dev_django/Scripts" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hello_django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Scripts" />
+      <item itemvalue="Python.manage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.Scripts" />
+        <item itemvalue="Python.Scripts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71615526-d190-4ca7-acf4-d8c5ed4c0e01" name="Changes" comment="" />
+      <created>1636164640647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636164640647</updated>
+    </task>
+    <servers />
+  </component>
+</project>

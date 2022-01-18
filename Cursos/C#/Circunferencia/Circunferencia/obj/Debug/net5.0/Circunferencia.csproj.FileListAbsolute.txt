@@ -1,0 +1,15 @@
+C:\Users\Gerson Lima\source\repos\Circunferencia\Circunferencia\bin\Debug\net5.0\Circunferencia.exe
+C:\Users\Gerson Lima\source\repos\Circunferencia\Circunferencia\bin\Debug\net5.0\Circunferencia.deps.json
+C:\Users\Gerson Lima\source\repos\Circunferencia\Circunferencia\bin\Debug\net5.0\Circunferencia.runtimeconfig.json
+C:\Users\Gerson Lima\source\repos\Circunferencia\Circunferencia\bin\Debug\net5.0\Circunferencia.runtimeconfig.dev.json
+C:\Users\Gerson Lima\source\repos\Circunferencia\Circunferencia\bin\Debug\net5.0\Circunferencia.dll
+C:\Users\Gerson Lima\source\repos\Circunferencia\Circunferencia\bin\Debug\net5.0\ref\Circunferencia.dll
+C:\Users\Gerson Lima\source\repos\Circunferencia\Circunferencia\bin\Debug\net5.0\Circunferencia.pdb
+C:\Users\Gerson Lima\source\repos\Circunferencia\Circunferencia\obj\Debug\net5.0\Circunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerson Lima\source\repos\Circunferencia\Circunferencia\obj\Debug\net5.0\Circunferencia.AssemblyInfoInputs.cache
+C:\Users\Gerson Lima\source\repos\Circunferencia\Circunferencia\obj\Debug\net5.0\Circunferencia.AssemblyInfo.cs
+C:\Users\Gerson Lima\source\repos\Circunferencia\Circunferencia\obj\Debug\net5.0\Circunferencia.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Lima\source\repos\Circunferencia\Circunferencia\obj\Debug\net5.0\Circunferencia.dll
+C:\Users\Gerson Lima\source\repos\Circunferencia\Circunferencia\obj\Debug\net5.0\ref\Circunferencia.dll
+C:\Users\Gerson Lima\source\repos\Circunferencia\Circunferencia\obj\Debug\net5.0\Circunferencia.pdb
+C:\Users\Gerson Lima\source\repos\Circunferencia\Circunferencia\obj\Debug\net5.0\Circunferencia.genruntimeconfig.cache

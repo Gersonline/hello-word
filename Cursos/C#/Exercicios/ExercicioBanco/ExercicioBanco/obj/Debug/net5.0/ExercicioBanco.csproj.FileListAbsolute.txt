@@ -1,0 +1,16 @@
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\Exercicios\ExercicioBanco\ExercicioBanco\bin\Debug\net5.0\ExercicioBanco.exe
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\Exercicios\ExercicioBanco\ExercicioBanco\bin\Debug\net5.0\ExercicioBanco.deps.json
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\Exercicios\ExercicioBanco\ExercicioBanco\bin\Debug\net5.0\ExercicioBanco.runtimeconfig.json
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\Exercicios\ExercicioBanco\ExercicioBanco\bin\Debug\net5.0\ExercicioBanco.runtimeconfig.dev.json
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\Exercicios\ExercicioBanco\ExercicioBanco\bin\Debug\net5.0\ExercicioBanco.dll
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\Exercicios\ExercicioBanco\ExercicioBanco\bin\Debug\net5.0\ref\ExercicioBanco.dll
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\Exercicios\ExercicioBanco\ExercicioBanco\bin\Debug\net5.0\ExercicioBanco.pdb
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\Exercicios\ExercicioBanco\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.csproj.AssemblyReference.cache
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\Exercicios\ExercicioBanco\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\Exercicios\ExercicioBanco\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.AssemblyInfoInputs.cache
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\Exercicios\ExercicioBanco\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.AssemblyInfo.cs
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\Exercicios\ExercicioBanco\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\Exercicios\ExercicioBanco\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.dll
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\Exercicios\ExercicioBanco\ExercicioBanco\obj\Debug\net5.0\ref\ExercicioBanco.dll
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\Exercicios\ExercicioBanco\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.pdb
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\Exercicios\ExercicioBanco\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.genruntimeconfig.cache

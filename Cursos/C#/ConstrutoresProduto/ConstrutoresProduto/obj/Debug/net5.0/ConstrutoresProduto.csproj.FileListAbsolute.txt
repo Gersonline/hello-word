@@ -1,0 +1,16 @@
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\ConstrutoresProduto\ConstrutoresProduto\bin\Debug\net5.0\ConstrutoresProduto.exe
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\ConstrutoresProduto\ConstrutoresProduto\bin\Debug\net5.0\ConstrutoresProduto.deps.json
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\ConstrutoresProduto\ConstrutoresProduto\bin\Debug\net5.0\ConstrutoresProduto.runtimeconfig.json
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\ConstrutoresProduto\ConstrutoresProduto\bin\Debug\net5.0\ConstrutoresProduto.runtimeconfig.dev.json
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\ConstrutoresProduto\ConstrutoresProduto\bin\Debug\net5.0\ConstrutoresProduto.dll
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\ConstrutoresProduto\ConstrutoresProduto\bin\Debug\net5.0\ref\ConstrutoresProduto.dll
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\ConstrutoresProduto\ConstrutoresProduto\bin\Debug\net5.0\ConstrutoresProduto.pdb
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\ConstrutoresProduto\ConstrutoresProduto\obj\Debug\net5.0\ConstrutoresProduto.csproj.AssemblyReference.cache
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\ConstrutoresProduto\ConstrutoresProduto\obj\Debug\net5.0\ConstrutoresProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\ConstrutoresProduto\ConstrutoresProduto\obj\Debug\net5.0\ConstrutoresProduto.AssemblyInfoInputs.cache
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\ConstrutoresProduto\ConstrutoresProduto\obj\Debug\net5.0\ConstrutoresProduto.AssemblyInfo.cs
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\ConstrutoresProduto\ConstrutoresProduto\obj\Debug\net5.0\ConstrutoresProduto.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\ConstrutoresProduto\ConstrutoresProduto\obj\Debug\net5.0\ConstrutoresProduto.dll
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\ConstrutoresProduto\ConstrutoresProduto\obj\Debug\net5.0\ref\ConstrutoresProduto.dll
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\ConstrutoresProduto\ConstrutoresProduto\obj\Debug\net5.0\ConstrutoresProduto.pdb
+C:\Users\Gerson Lima\Documents\HelloWord\Cursos\C#\ConstrutoresProduto\ConstrutoresProduto\obj\Debug\net5.0\ConstrutoresProduto.genruntimeconfig.cache

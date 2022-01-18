@@ -1,0 +1,15 @@
+C:\Users\Gerson Lima\source\repos\CotacaoDolar\CotacaoDolar\bin\Debug\net5.0\CotacaoDolar.exe
+C:\Users\Gerson Lima\source\repos\CotacaoDolar\CotacaoDolar\bin\Debug\net5.0\CotacaoDolar.deps.json
+C:\Users\Gerson Lima\source\repos\CotacaoDolar\CotacaoDolar\bin\Debug\net5.0\CotacaoDolar.runtimeconfig.json
+C:\Users\Gerson Lima\source\repos\CotacaoDolar\CotacaoDolar\bin\Debug\net5.0\CotacaoDolar.runtimeconfig.dev.json
+C:\Users\Gerson Lima\source\repos\CotacaoDolar\CotacaoDolar\bin\Debug\net5.0\CotacaoDolar.dll
+C:\Users\Gerson Lima\source\repos\CotacaoDolar\CotacaoDolar\bin\Debug\net5.0\ref\CotacaoDolar.dll
+C:\Users\Gerson Lima\source\repos\CotacaoDolar\CotacaoDolar\bin\Debug\net5.0\CotacaoDolar.pdb
+C:\Users\Gerson Lima\source\repos\CotacaoDolar\CotacaoDolar\obj\Debug\net5.0\CotacaoDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerson Lima\source\repos\CotacaoDolar\CotacaoDolar\obj\Debug\net5.0\CotacaoDolar.AssemblyInfoInputs.cache
+C:\Users\Gerson Lima\source\repos\CotacaoDolar\CotacaoDolar\obj\Debug\net5.0\CotacaoDolar.AssemblyInfo.cs
+C:\Users\Gerson Lima\source\repos\CotacaoDolar\CotacaoDolar\obj\Debug\net5.0\CotacaoDolar.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Lima\source\repos\CotacaoDolar\CotacaoDolar\obj\Debug\net5.0\CotacaoDolar.dll
+C:\Users\Gerson Lima\source\repos\CotacaoDolar\CotacaoDolar\obj\Debug\net5.0\ref\CotacaoDolar.dll
+C:\Users\Gerson Lima\source\repos\CotacaoDolar\CotacaoDolar\obj\Debug\net5.0\CotacaoDolar.pdb
+C:\Users\Gerson Lima\source\repos\CotacaoDolar\CotacaoDolar\obj\Debug\net5.0\CotacaoDolar.genruntimeconfig.cache

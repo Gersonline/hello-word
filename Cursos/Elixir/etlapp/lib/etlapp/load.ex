@@ -1,24 +1,33 @@
 defmodule Etlapp.Load do
 
   defmodule Loop do
-    def print_multiple_times(orderlist, n) when n <= 1 do
-      IO.inspect(orderlist)
-      IO.puts n
+    def print_multiple_times(orderlist, n) when n < 1 do
+      IO.inspect(Enum.sort(orderlist))
     end
 
     def print_multiple_times(orderlist, n) do
       IO.inspect(orderlist)
 
       url = "http://challenge.dienekes.com.br/api/numbers?page=" <> Integer.to_string(n)
-
+      IO.inspect(url)
       response = HTTPotion.get!(url)
       result = Poison.Parser.parse response.body
+
+      #IO.inspect(result)
       list = elem(result, 1)
       #numbers = Enum.at(list, 0)
       listnumbers = list["numbers"]
-      newlist = Enum.sort(listnumbers)
+      newlist = listnumbers
+      IO.inspect(newlist)
 
-       print_multiple_times(orderlist ++ newlist, n - 1)
+      cond do
+        newlist != nil ->
+          #Process.sleep(1000)
+          print_multiple_times(orderlist ++ Enum.sort(newlist), n + 1)
+        newlist == nil ->
+          print_multiple_times(orderlist, 0)
+      end
+
     end
  end
 
@@ -31,9 +40,10 @@ defmodule Etlapp.Load do
     list = elem(result, 1)
     #numbers = Enum.at(list, 0)
     listnumbers = list["numbers"]
-    orderlist = Enum.sort(listnumbers)
+    orderlist = listnumbers
 
-    newlist = Loop.print_multiple_times(orderlist, 20)
+    newlist = Loop.print_multiple_times(Enum.sort(orderlist), 1)
+    IO.inspect(newlist)
 
     #for n <- listnumbers, times <- length(listnumbers)..n, do: IO.inspect(listnumbers)
 
@@ -52,7 +62,7 @@ defmodule Etlapp.Load do
     IO.inspect(listnumbers)
     IO.inspect(orderlist)
 '''
-    {:ok, %{ordernumbers: elem(newlist, 1)}}
+    {:ok, %{ordernumbers: newlist}}
   end
 
   def create("error") do
